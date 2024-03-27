@@ -1,0 +1,33 @@
+{
+  "name": "musicplaylistmanagement",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "musicplaylistmanagement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liunsewa/musicplaylistmanagement"
+  },
+  "website": "https://github.com/liunsewa/musicplaylistmanagement.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "liunsewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liunsewa/musicplaylistmanagement/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liunsewa/musicplaylistmanagement#readme",
+  "dependencies": {
+    "softwareconstruction": "1.0.2"
+  }
+}
